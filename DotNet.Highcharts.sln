@@ -1,23 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet.Highcharts", "DotNet.Highcharts\DotNet.Highcharts.csproj", "{6FE2EA1E-85E3-4969-BE6C-C08C9BA9029A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNet.Highcharts.Samples", "DotNet.Highcharts.Samples\DotNet.Highcharts.Samples.csproj", "{9BD9FBB8-2424-4FC3-9B15-805D38CEBC18}"
-EndProject
 Global
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 3
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs24
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = DotNet.Highcharts.Samples\\DotNet.Highcharts.Samples.csproj
-		SccProjectName1 = DotNet.Highcharts.Samples
-		SccLocalPath1 = DotNet.Highcharts.Samples
-		SccProjectUniqueName2 = DotNet.Highcharts\\DotNet.Highcharts.csproj
-		SccProjectName2 = DotNet.Highcharts
-		SccLocalPath2 = DotNet.Highcharts
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|Mixed Platforms = Debug|Mixed Platforms
@@ -37,18 +25,11 @@ Global
 		{6FE2EA1E-85E3-4969-BE6C-C08C9BA9029A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{6FE2EA1E-85E3-4969-BE6C-C08C9BA9029A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{6FE2EA1E-85E3-4969-BE6C-C08C9BA9029A}.Release|x86.ActiveCfg = Release|Any CPU
-		{9BD9FBB8-2424-4FC3-9B15-805D38CEBC18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9BD9FBB8-2424-4FC3-9B15-805D38CEBC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9BD9FBB8-2424-4FC3-9B15-805D38CEBC18}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
-		{9BD9FBB8-2424-4FC3-9B15-805D38CEBC18}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
-		{9BD9FBB8-2424-4FC3-9B15-805D38CEBC18}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{9BD9FBB8-2424-4FC3-9B15-805D38CEBC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9BD9FBB8-2424-4FC3-9B15-805D38CEBC18}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9BD9FBB8-2424-4FC3-9B15-805D38CEBC18}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
-		{9BD9FBB8-2424-4FC3-9B15-805D38CEBC18}.Release|Mixed Platforms.Build.0 = Release|Any CPU
-		{9BD9FBB8-2424-4FC3-9B15-805D38CEBC18}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E53992EF-422A-4482-AD62-734EFE9BD8AD}
 	EndGlobalSection
 EndGlobal
